@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Kelvin
-Template URL: https://templatemag.com/kelvin-bootstrap-resume-template/
-Author: TemplateMag.com
-License: https://templatemag.com/license/
+Thanks for visiting my page.  Please visit https://eyamini.github.io/ for the html version of my resume.
